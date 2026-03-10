@@ -8,6 +8,6 @@ Basic html page with css
 - used colors and backgrounds
 - used layout and positioning
 ## How to Run project
-1. clone the repository
+1. Clone the repository
 2. Open VScode and run the project
    
